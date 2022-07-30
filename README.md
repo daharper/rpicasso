@@ -1,7 +1,7 @@
 # rpicasso
 ## Picasso in Ruby
 
-Had to prepare for a Ruby interview, so I did the CS challenge in Ruby to jog the memory.
+Had to prepare for a Ruby interview, so I did a familiar challenge in Ruby to jog the memory.
 
 Was a fun project, I wanted to keep this one more concise than my previous efforts.
 
