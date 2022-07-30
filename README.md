@@ -37,4 +37,4 @@ H
 ```
 Q
 ```
-Creating a new canvas clears the command history.
+**Note: Creating a new canvas clears the command history.**
