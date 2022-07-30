@@ -3,7 +3,9 @@
 
 Had to prepare for a Ruby interview, so I did the CS challenge in Ruby to jog the memory.
 
-Was a fun project, tried to keep things concise.
+Was a fun project, I wanted to keep this one more concise than my previous efforts.
+
+![image](https://user-images.githubusercontent.com/2164086/181918800-8c4f7b8f-db4d-4aad-a4ea-0d30de0a5882.png)
 
 ### Run the program:
 ```
