@@ -5,14 +5,12 @@ Had to prepare for a Ruby interview, so I did the CS challenge in Ruby to jog th
 
 Was a fun project, tried to keep things concise.
 
-There's two example files in the demos folder.
-
 ### Run the program:
 ```
 ruby picasso.rb
 ```
 
-### To run a demo at the command prompt:
+### To run the demos at the command prompt:
 ```
 O cs.pic
 ```
