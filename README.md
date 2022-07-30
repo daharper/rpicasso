@@ -5,20 +5,26 @@ Had to prepare for a Ruby interview, so I did the CS challenge in Ruby.
 
 Was a fun project, tried to keep things concise.
 
-There's two demo files in the demos folder.
+There's two example files in the demos folder.
 
 1. Run the program:
 
 ruby picasso.rb
 
-2. Run a demo - at the command prompt enter:
+2. To run a demo at the command prompt:
 
-o cs.pic
+O cs.pic
 
 or
 
-o author.pic
+O author.pic
 
-3. Type ? for help
+(that's O as in Open - it's case insensitive)
+
+3. Enter H for command history
+
+4. Type ? for help
+
+5. Q to quit
 
 Creating a new canvas clears the command history.
