@@ -8,13 +8,11 @@ Was a fun project, tried to keep things concise.
 There's two example files in the demos folder.
 
 ### Run the program:
-
 ```
 ruby picasso.rb
 ```
 
 ### To run a demo at the command prompt:
-
 ```
 O cs.pic
 ```
@@ -25,12 +23,18 @@ or
 O author.pic
 ```
 
-**(that's O as in Open - it's case insensitive)**
+(that's O as in Open - it's case insensitive)
 
-### Enter H for command history
-
-### Type ? for help
-
-### Q to quit
-
+### To see the command history:
+```
+H
+```
+### For help enter:
+```
+?
+```
+### To quit:
+```
+Q
+```
 Creating a new canvas clears the command history.
