@@ -1,7 +1,7 @@
 class Clippy
   def self.help
     puts
-    puts('C width height        create a canvas')
+    puts('C width height        create a canvas: x in [1..width] y in [1..height]')
     puts('R x1 y1 x2 y2         draw a rectangle')
     puts('T x1 y1 x2 y2 x3 y3   draw a rectangle')
     puts('L x1 y1 x2 y2         draw a line')
