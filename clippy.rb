@@ -3,7 +3,7 @@ class Clippy
     puts
     puts('C width height        create a canvas: x in [1..width] y in [1..height]')
     puts('R x1 y1 x2 y2         draw a rectangle')
-    puts('T x1 y1 x2 y2 x3 y3   draw a rectangle')
+    puts('T x1 y1 x2 y2 x3 y3   draw a triangle')
     puts('L x1 y1 x2 y2         draw a line')
     puts('B x y c               bucket fill with character c')
     puts('D x y c               draws the character c')
